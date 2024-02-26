@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuskyChat", "HuskyChat\HuskyChat.csproj", "{ACC56E5C-9759-4A9C-9753-320857CDAF42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACC56E5C-9759-4A9C-9753-320857CDAF42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC56E5C-9759-4A9C-9753-320857CDAF42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC56E5C-9759-4A9C-9753-320857CDAF42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC56E5C-9759-4A9C-9753-320857CDAF42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B491C1B-A782-44E6-9A8E-744F8818B429}
+	EndGlobalSection
+EndGlobal
